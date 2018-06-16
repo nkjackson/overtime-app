@@ -4,7 +4,7 @@
 
 ## Mdels
 
--Post -> date:date rationale:text
+- Post -> date:date rationale:text
 - User -> Devise
 - AdminUser -> STI
 
